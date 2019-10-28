@@ -44,7 +44,7 @@ namespace FileIOArray
                 "----------".PadRight(15) +
                 "---------".PadRight(15) +
                 "---".PadRight(15)
-                );
+                );  
 
             foreach (string student in students)
             {
